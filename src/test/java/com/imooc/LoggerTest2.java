@@ -9,6 +9,6 @@ public class LoggerTest2 {
         System.out.println("hello world");
         System.out.println("hello world");
         System.out.println("hello world");
-        System.out.println("hello world");
+        System.out.println("hello world！！！");
     }
 }
