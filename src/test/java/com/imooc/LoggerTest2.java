@@ -9,5 +9,6 @@ public class LoggerTest2 {
         System.out.println("hello world1");
         System.out.println("hello world2");
         System.out.println("hello world3");
+        //有什么不同
     }
 }
