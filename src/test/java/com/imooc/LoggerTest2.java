@@ -6,4 +6,8 @@ package com.imooc;
  */
 public class LoggerTest2 {
 //测试不出来啊ha
+
+    public static void main(String[] args) {
+
+    }
 }
