@@ -5,5 +5,5 @@ package com.imooc;
  * 2017-06-02 17:55
  */
 public class LoggerTest2 {
-//测试不出来啊haha
+//测试不出来啊
 }
